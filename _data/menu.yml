@@ -1,0 +1,12 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: About me
+    url: "about"
+  - title: All posts
+    post_list:
+      limit: 4
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html

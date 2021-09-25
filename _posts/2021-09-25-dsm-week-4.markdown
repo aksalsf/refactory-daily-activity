@@ -1,0 +1,14 @@
+---
+layout: post
+title: "DSM Week 4"
+date: 2021-09-25 17:41:50 +0700
+categories: DSM
+---
+
+| **Day** | **Activity**                                                   | **Repo** |
+| ------- | -------------------------------------------------------------- | -------- |
+| Sep 20  | Belajar konsep aplikasi statis dinamis React Native            | -        |
+| Sep 21  | -                                                              | -        |
+| Sep 22  | Membuat daftar halaman proyek Climbee                          | -        |
+| Sep 23  | Membantu merancang class diagram dan ERD                       | -        |
+| Sep 24  | Inisialisasi repo project mobile developer dan belajar Jeckyll | -        |
